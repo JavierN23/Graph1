@@ -1,4 +1,6 @@
 Create a theoretical graph:
+
+
 ![Graph1 drawio (1)](https://github.com/user-attachments/assets/3c5bc7e7-26e4-4f72-89fe-a8fb1f5f7b29)
 
 Apply breadth and depth-first search algorithms using C++.
