@@ -74,7 +74,9 @@ Apply breadth and depth-first search algorithms using C++.
 
     return 0;
     }
-Compare both search algorithms in the context of Big O notations.
+Compare both search algorithms in the context of Big O notations:
+
+
 Breadth Search Algorithm is good at short path. It isn't as through as the Depth-First Algorithm since that algorithm search each individual path that is excessable. In terms of Time complexity they are both good but the first algorithm has a fast time complexity since it is finding the shortest path with the cost of missing some compared to the Depth-First Algorithm that goes through each path.
 
 https://youtu.be/l2SNebbOAqk
